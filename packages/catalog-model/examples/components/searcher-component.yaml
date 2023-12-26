@@ -4,7 +4,7 @@ metadata:
   name: searcher
   description: Searcher
   annotations:
-    dev.azure.com/spglobal: GDPS/GDPS_Config
+    dev.azure.com/project-repo: GDPS/GDPS_Config
   tags:
     - go
 spec:
